@@ -1,4 +1,4 @@
-name: stat214-r
+name: stat215-r
 channels:
   - defaults
   - conda-forge
